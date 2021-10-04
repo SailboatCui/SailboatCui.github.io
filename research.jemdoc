@@ -6,14 +6,16 @@
 Ph.D. Candidate,\n 
 [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Michigan Power and Energy Laboratory], \n[http://www.kth.se Department of Electrical Engineering and Computer Science]\n
 Phone: \+1-734-926-7586 \n
-E-mail: cuixf@umich.edu
+E-mail: /cuixf/ \[@\] umich \[DOT\] edu
+Address: /cuixf/ \[@\] umich \[DOT\] edu
 ~~~
 
 == About me
-I am currently a Ph.D. candidate from the [https://eecs.engin.umich.edu/ Department of Electrical Engineering and Computer Science] (EECS) at the [https://umich.edu/ University of Michigan, Ann Arbor] (UM-Ann Arbor), fortunatately advised by Prof. Al-Thaddeus Avestruz. I received two M.S. degrees in ECE and Mathematics from UM-Ann Arbor. I received my B.S. degree in Electrical Engineering from [http://www.tsinghua.edu.cn Tsinghua University], Beijing, 2016.
+I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
+ [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
 
 == Research Interests
-- Energy systems, microgrid
+- Energy and power systems, microgrid
 - Control, modeling and optimization of power electronics
 - Dynamical systems, stability
 - Energy storage, renewable energy
@@ -24,6 +26,11 @@ I am currently a Ph.D. candidate from the [https://eecs.engin.umich.edu/ Departm
 - 07/2021, oral presentation "A Fast Response DC-DC Converter with Programmable Ripple for Combined Distributed Computation and Communication" in [https://apec-conf.org APEC 2021] (Virtual), Phoenix, Arizona. \n
 - 06/2021, invited talk "Power Processing Architecture for Heterogeneous Second-Use Battery Energy Storage Systems (2-BESS)" at [https://www.kettering.edu/ Kettering Universtiy], Flint, MI. \n
 - 03/2021, our paper “[https://ieeexplore.ieee.org/document/9102270 Region of Attraction Estimation for DC Microgrids with Constant Power Loads Using Potential Theory]" is accpeted for publication in [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411 IEEE Transactions on Smart Grid].\n
-#[publications.html Full list of publications].
-#\n
-#[cv.pdf A brief cv].
+. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson " Optimal parameter selection for the alternating direction method of
+multipliers (ADMM): quadratic problems ", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
+. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+
+[publications.html Full list of publications].
+\n
+[cv.pdf A brief cv].
