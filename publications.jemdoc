@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter  
+== Publications
+
+~~~
+Xiaofan's [https://scholar.google.com/citations?user=BlL_cBwAAAAJ&hl=en Google Scholar] Profile.
+~~~
+
+
+=== Journal Articles
+. *X. Cui* and A. T. Avestruz, "Overcoming High Frequency Limitations of Current-Mode Control Using a Control Conditioning Approach," /IEEE Transactions on Power Electronics/. (Submitted) 
+\n
+. *X. Cui*, A. Ramyar, J. Siegel, P. Mohtat, A. Stefanopoulou and A. T. Avestruz, "[https://arxiv.org/abs/2106.11749 Optimizing Partial Power Processing for Second-Use Battery Energy Storage Systems]," /IEEE Access/, 2021. (Submitted)
+\n
+. *X. Cui*, A. Ramyar, J. Siegel, P. Mohtat, A. Stefanopoulou and A. T. Avestruz, "[https://arxiv.org/abs/2104.14976 Comparing Power Processing System Approaches in Second-Use Battery Energy Buffering for EV Charging]," /Journal of Energy Storage/, 2021. (Submitted)
+\n
+. F. Chang, *X. Cui*, M. Wang and W. Su, "[https://ieeexplore.ieee.org/document/9434407 Region of Attraction Estimation for DC Microgrids with Constant Power Loads Using Potential Theory]," /IEEE Transactions on Smart Grid/, 2021.
+. S. Y. Chu, *X. Cui*, X. Zan and A. T. Avestruz, "[https://ieeexplore.ieee.org/document/9516954 Transfer-Power Measurement Using a Non-Contact Method for Fair and Accurate Metering of Wireless Power Transfer in Electric Vehicles]," IEEE Transactions on Power Electronics, 2021
+\n
+. F. Chang, *X. Cui*, M. Wang, W. Su and A. Q. Huang, "[https://ieeexplore.ieee.org/document/9102270 Large-Signal Stability Criteria in DC Power Grids with Distributed-Controlled Converters and Constant Power Loads]," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2020.2998041
+
+
+=== Conference Papers
+. *X. Cui* and J. Tan, "Unified Metrics for Fast Frequency Response in Low-Inertia Power System," /IEEE PES General Meeting/. (In Preparation)
+\n
+. *X. Cui*, A. Ramyar, V. Contreras, G. Judge, J. Siegel, A. Stefanopoulou and A. T. Avestruz, "Lite-Sparse Hierarchical Partial Power Processing for Parallel Batteries in Heterogeneous Energy Storage Systems," /IEEE 22nd Workshop on Control and Modeling for Power Electronics (COMPEL)/. *(Oral Presentation)*
+\n
+. *X. Cui*, C. Deng and A. T. Avestruz, "A Fast Response DC-DC Converter with Programmable Ripple for Combined Distributed Computation and Communication," /2021 IEEE Applied Power Electronics Conference (APEC)/, Arizona, USA, 2021. *(Oral Presentation)*
+\n
+. *X. Cui*, C. Keller and A. T. Avestruz, "A 5MHz High-Speed Saturating Inductor DC-DC Converter Using Cycle-by-Cycle Digital Control," /2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)/, Toronto, Canada, 2019. *(Oral Presentation]*
+\n
+. A. Ramyar, *X. Cui* and A. T. Avestruz, "Two-Port Up/Down DC-DC Converter for Two-Dimensional Maximum Power Point Tracking of Differential Diffusion Charge Redistribution Solar Panel," /2019 IEEE 20th Workshop on Control and Modeling for Power Electronics (COMPEL)/, Toronto, Canada, 2019. *(Oral Presentation)*
+\n
+. *X. Cui*, C. Keller and A. T. Avestruz, "Cycle-by-Cycle Digital Control of a Multi-Megahertz Variable-Frequency Boost Converter for Automatic Power Control of LiDAR," /2019 IEEE Energy Conversion Congress & Exposition (ECCE)/, Baltimore, USA, 2019. *(Oral Presentation)*
+\n
+. *X. Cui* and A. T. Avestruz, "Switching-Synchronized Sampled-State Space Modeling and Digital Controller for a Constant Off-Time, Current-Mode Boost Converter," /2019 American Control Conference (ACC)/, Philadelphia, USA, 2019. *(Oral Presentation)*
+\n
+. L. Yang, *X. Cui*, et al., "Correct-by-Construction Control Synthesis for Buck Converters with Event-Triggered State Measurement," /2019 American Control Conference (ACC)/, Philadelphia, USA, 2019. *[Oral Presentation)*
+\n
+. *X. Cui* and A. T. Avestruz, "A New Framework for Cycle-by-Cycle Digital Control of Megahertz-Range Variable Frequency Buck Converters," /2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)/, Padova, Italy, 2018.
+\n
+. S. Y. Chu, *X. Cui* and A. T. Avestruz, "Accurate Transfer-Power Measurement for Wireless Charging of Electric Vehicles Under Misalignment," /2018 IEEE PELS Workshop on Emerging Technologies: Wireless Power Transfer (Wow)/, Montréal, QC, Canada, 2018, pp. 1-6. *(Oral Presentation)*
+\n
+. A. Sarin, *X. Cui* and A. T. Avestruz, "Comparison of switched receivers for direct-sequence spread-spectrum wireless power transfer," /2017 IEEE 18th Workshop on Control and Modeling for Power Electronics (COMPEL)/, Stanford, CA, 2017, pp. 1-8.
+\n
+. W. Liang, *X. Cui*, et al., "A compact RF power inverter with reduced EMI for a CubeSat electro thermal micro-thruster," /2017 IEEE 18th Workshop on Control and Modeling for Power Electronics (COMPEL)/, Stanford, CA, 2017, pp. 1-6.
+
+=== Patents
+. Cycle-by-Cycle Digital Control of DC-DC Converters, No.17/348,705 (US), filed 2021
+\n
+. Programmable Inductor for Power Electronics, UMTT No.2021-471 (US), disclosure filed 2021
+\n
+. Current Conditioning Method for Current Mode Control, UMTT No.2021-470 (US), disclosure filed 2021
+\n
+. Method for Statistical Design of Energy Storage Systems, UMTT No.2021-341 (US), disclosure filed 2021
+\n
+. Power Processing for Energy Storage, No.63/090,199 (US), filed 2019
+\n
+. Optical Measuring System Used for Measuring Field Intensity of Direct-Current Electric Field, ZL201410830714, granted Apr. 2017
+
