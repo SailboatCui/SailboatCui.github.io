@@ -1,6 +1,11 @@
 menu
     Home                [index.html]
+    Research		[research.html]
     Biography           [biography.html]                    
     Publication         [publications.html]
     Teaching		[teaching.html]
     Talks               [talks.html]
+    Miscs		[miscs.html]
+	
+#usefull links
+#   Jemdoc   		[http://jemdoc.jaboc.net/]
